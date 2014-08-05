@@ -47,6 +47,7 @@
             "App::cpanminus" : "0",
             "App::scan_prereqs_cpanfile" : "0",
             "App::watcher" : "0",
+            "CPAN::Uploader" : "0",
             "Cache::Memcached::Fast" : "0",
             "Carton" : "0",
             "Class::Accessor::Lite" : "0",
@@ -129,6 +130,7 @@
             "Time::Moment" : "0",
             "Time::Piece::Plus" : "0",
             "Twiggy" : "0",
+            "Version::Next" : "0",
             "WWW::Mechanize" : "0",
             "Web::Query" : "0",
             "XML::LibXML" : "0",
@@ -146,7 +148,7 @@
    "provides" : {
       "Task::BeLike::SONGMU" : {
          "file" : "lib/Task/BeLike/SONGMU.pm",
-         "version" : "20140714.000"
+         "version" : "20140805.000"
       }
    },
    "release_status" : "stable",
@@ -160,6 +162,6 @@
          "web" : "https://github.com/Songmu/p5-Task-BeLike-SONGMU"
       }
    },
-   "version" : "20140714.000",
+   "version" : "20140805.000",
    "x_authority" : "cpan:SONGMU"
 }

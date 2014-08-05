@@ -3,7 +3,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-our $VERSION = "20140714.000";
+our $VERSION = "20140805.000";
 
 
 
@@ -44,6 +44,10 @@ SONGMU's favorite modules using at work.
 =head2 Authoring Tools
 
 =head3 L<Minilla>
+
+=head3 L<CPAN::Uploader>
+
+=head3 L<Version::Next>
 
 =head3 L<App::scan_prereqs_cpanfile>
 

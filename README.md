@@ -10,293 +10,245 @@ SONGMU's favorite modules using at work.
 
 ## Tools
 
-### [App::cpanminus](http://search.cpan.org/perldoc?App::cpanminus)
+### [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 
 ### [plenv](https://github.com/tokuhirom/plenv)
 
-### [Perl::Build](http://search.cpan.org/perldoc?Perl::Build)
+### [Perl::Build](https://metacpan.org/pod/Perl::Build)
 
-### [Carton](http://search.cpan.org/perldoc?Carton)
+### [Carton](https://metacpan.org/pod/Carton)
 
-### [Reply](http://search.cpan.org/perldoc?Reply)
+### [Reply](https://metacpan.org/pod/Reply)
 
-### [Daiku](http://search.cpan.org/perldoc?Daiku)
+### [Daiku](https://metacpan.org/pod/Daiku)
 
-### [App::watcher](http://search.cpan.org/perldoc?App::watcher)
+### [App::watcher](https://metacpan.org/pod/App::watcher)
 
-### [L](http://search.cpan.org/perldoc?L)
-
-
+### [L](https://metacpan.org/pod/L)
 
 ## Authoring Tools
 
-### [Minilla](http://search.cpan.org/perldoc?Minilla)
+### [Minilla](https://metacpan.org/pod/Minilla)
 
-### [App::scan\_prereqs\_cpanfile](http://search.cpan.org/perldoc?App::scan\_prereqs\_cpanfile)
+### [CPAN::Uploader](https://metacpan.org/pod/CPAN::Uploader)
 
-### [Spellunker](http://search.cpan.org/perldoc?Spellunker)
+### [Version::Next](https://metacpan.org/pod/Version::Next)
 
+### [App::scan\_prereqs\_cpanfile](https://metacpan.org/pod/App::scan_prereqs_cpanfile)
 
+### [Spellunker](https://metacpan.org/pod/Spellunker)
 
 ## Web Application Development
 
-### [Plack](http://search.cpan.org/perldoc?Plack)
+### [Plack](https://metacpan.org/pod/Plack)
 
-### [Plack::Middleware::ReverseProxy](http://search.cpan.org/perldoc?Plack::Middleware::ReverseProxy)
+### [Plack::Middleware::ReverseProxy](https://metacpan.org/pod/Plack::Middleware::ReverseProxy)
 
-### [Starlet](http://search.cpan.org/perldoc?Starlet)
+### [Starlet](https://metacpan.org/pod/Starlet)
 
-### [HTTP::Parser::XS](http://search.cpan.org/perldoc?HTTP::Parser::XS)
+### [HTTP::Parser::XS](https://metacpan.org/pod/HTTP::Parser::XS)
 
-### [Twiggy](http://search.cpan.org/perldoc?Twiggy)
+### [Twiggy](https://metacpan.org/pod/Twiggy)
 
-### [Server::Starter](http://search.cpan.org/perldoc?Server::Starter)
+### [Server::Starter](https://metacpan.org/pod/Server::Starter)
 
-### [Puncheur](http://search.cpan.org/perldoc?Puncheur)
-
-
+### [Puncheur](https://metacpan.org/pod/Puncheur)
 
 ## Class Builder
 
-### [Class::Accessor::Lite](http://search.cpan.org/perldoc?Class::Accessor::Lite)
+### [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite)
 
-### [Class::Accessor::Lite::Lazy](http://search.cpan.org/perldoc?Class::Accessor::Lite::Lazy)
+### [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy)
 
-### [Mouse](http://search.cpan.org/perldoc?Mouse)
+### [Mouse](https://metacpan.org/pod/Mouse)
 
-### [Moo](http://search.cpan.org/perldoc?Moo)
-
-
+### [Moo](https://metacpan.org/pod/Moo)
 
 ## Meta Programming
 
-### [Class::Method::Modifiers](http://search.cpan.org/perldoc?Class::Method::Modifiers)
-
-
+### [Class::Method::Modifiers](https://metacpan.org/pod/Class::Method::Modifiers)
 
 ## Validation
 
-### [Data::Validator](http://search.cpan.org/perldoc?Data::Validator)
-
-
+### [Data::Validator](https://metacpan.org/pod/Data::Validator)
 
 ## Utility
 
-### [Clone](http://search.cpan.org/perldoc?Clone)
+### [Clone](https://metacpan.org/pod/Clone)
 
-### [List::MoreUtils](http://search.cpan.org/perldoc?List::MoreUtils)
+### [List::MoreUtils](https://metacpan.org/pod/List::MoreUtils)
 
-### [List::UtilsBy](http://search.cpan.org/perldoc?List::UtilsBy)
+### [List::UtilsBy](https://metacpan.org/pod/List::UtilsBy)
 
-### [Data::Section::Simple](http://search.cpan.org/perldoc?Data::Section::Simple)
-
-
+### [Data::Section::Simple](https://metacpan.org/pod/Data::Section::Simple)
 
 ## Exception
 
-### [Exception::Tiny](http://search.cpan.org/perldoc?Exception::Tiny)
-
-
+### [Exception::Tiny](https://metacpan.org/pod/Exception::Tiny)
 
 ## Configure
 
-### [Config::PL](http://search.cpan.org/perldoc?Config::PL)
+### [Config::PL](https://metacpan.org/pod/Config::PL)
 
-### [Config::Pit](http://search.cpan.org/perldoc?Config::Pit)
-
-
+### [Config::Pit](https://metacpan.org/pod/Config::Pit)
 
 ## Database Accessing
 
-### [DBI](http://search.cpan.org/perldoc?DBI)
+### [DBI](https://metacpan.org/pod/DBI)
 
-### [DBD::SQLite](http://search.cpan.org/perldoc?DBD::SQLite)
+### [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
 
-### [DBD::mysql](http://search.cpan.org/perldoc?DBD::mysql)
+### [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 
-### [DBIx::Sunny](http://search.cpan.org/perldoc?DBIx::Sunny)
-
-
+### [DBIx::Sunny](https://metacpan.org/pod/DBIx::Sunny)
 
 ## O/R Mapper
 
-### [Teng](http://search.cpan.org/perldoc?Teng)
+### [Teng](https://metacpan.org/pod/Teng)
 
-### [Teng::Plugin::ResultSet](http://search.cpan.org/perldoc?Teng::Plugin::ResultSet)
+### [Teng::Plugin::ResultSet](https://metacpan.org/pod/Teng::Plugin::ResultSet)
 
-### [Teng::Plugin::SearchJoined](http://search.cpan.org/perldoc?Teng::Plugin::SearchJoined)
-
-
+### [Teng::Plugin::SearchJoined](https://metacpan.org/pod/Teng::Plugin::SearchJoined)
 
 ## Database Related Development
 
-### [DBIx::Schema::DSL](http://search.cpan.org/perldoc?DBIx::Schema::DSL)
+### [DBIx::Schema::DSL](https://metacpan.org/pod/DBIx::Schema::DSL)
 
-### [SQL::Translator](http://search.cpan.org/perldoc?SQL::Translator)
+### [SQL::Translator](https://metacpan.org/pod/SQL::Translator)
 
-### [GitDDL::Migrator](http://search.cpan.org/perldoc?GitDDL::Migrator)
+### [GitDDL::Migrator](https://metacpan.org/pod/GitDDL::Migrator)
 
-### [SQL::Translator::Producer::Teng](http://search.cpan.org/perldoc?SQL::Translator::Producer::Teng)
+### [SQL::Translator::Producer::Teng](https://metacpan.org/pod/SQL::Translator::Producer::Teng)
 
-### [DBIx::TransactionManager](http://search.cpan.org/perldoc?DBIx::TransactionManager)
+### [DBIx::TransactionManager](https://metacpan.org/pod/DBIx::TransactionManager)
 
-### [DBIx::TransactionManager::EndHook](http://search.cpan.org/perldoc?DBIx::TransactionManager::EndHook)
+### [DBIx::TransactionManager::EndHook](https://metacpan.org/pod/DBIx::TransactionManager::EndHook)
 
-### [DBIx::QueryLog](http://search.cpan.org/perldoc?DBIx::QueryLog)
-
-
+### [DBIx::QueryLog](https://metacpan.org/pod/DBIx::QueryLog)
 
 ## No SQL
 
-### [Cache::Memcached::Fast](http://search.cpan.org/perldoc?Cache::Memcached::Fast)
+### [Cache::Memcached::Fast](https://metacpan.org/pod/Cache::Memcached::Fast)
 
-### [Redis::Fast](http://search.cpan.org/perldoc?Redis::Fast)
-
-
+### [Redis::Fast](https://metacpan.org/pod/Redis::Fast)
 
 ### Date and Time
 
-### [Time::Piece::Plus](http://search.cpan.org/perldoc?Time::Piece::Plus)
+### [Time::Piece::Plus](https://metacpan.org/pod/Time::Piece::Plus)
 
-### [Time::Moment](http://search.cpan.org/perldoc?Time::Moment)
+### [Time::Moment](https://metacpan.org/pod/Time::Moment)
 
-### [HTTP::Date](http://search.cpan.org/perldoc?HTTP::Date)
-
-
+### [HTTP::Date](https://metacpan.org/pod/HTTP::Date)
 
 ### File Manipulation
 
-### [Path::Tiny](http://search.cpan.org/perldoc?Path::Tiny)
+### [Path::Tiny](https://metacpan.org/pod/Path::Tiny)
 
-### [File::pushd](http://search.cpan.org/perldoc?File::pushd)
+### [File::pushd](https://metacpan.org/pod/File::pushd)
 
-### [File::Copy::Recursive](http://search.cpan.org/perldoc?File::Copy::Recursive)
-
-
+### [File::Copy::Recursive](https://metacpan.org/pod/File::Copy::Recursive)
 
 ## Data Format
 
-### [JSON::XS](http://search.cpan.org/perldoc?JSON::XS)
+### [JSON::XS](https://metacpan.org/pod/JSON::XS)
 
-### [Data::MessagePack](http://search.cpan.org/perldoc?Data::MessagePack)
+### [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 
-### [Text::CSV](http://search.cpan.org/perldoc?Text::CSV)
+### [Text::CSV](https://metacpan.org/pod/Text::CSV)
 
-### [TOML](http://search.cpan.org/perldoc?TOML)
+### [TOML](https://metacpan.org/pod/TOML)
 
-### [YAML](http://search.cpan.org/perldoc?YAML)
-
-
+### [YAML](https://metacpan.org/pod/YAML)
 
 ## Processes and Threads
 
-### [Parallel::ForkManager](http://search.cpan.org/perldoc?Parallel::ForkManager)
+### [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager)
 
-### [Proclet](http://search.cpan.org/perldoc?Proclet)
-
-
+### [Proclet](https://metacpan.org/pod/Proclet)
 
 ## Profiling
 
-### [Devel::NYTProf](http://search.cpan.org/perldoc?Devel::NYTProf)
+### [Devel::NYTProf](https://metacpan.org/pod/Devel::NYTProf)
 
-### [Devel::KYTProf](http://search.cpan.org/perldoc?Devel::KYTProf)
-
-
+### [Devel::KYTProf](https://metacpan.org/pod/Devel::KYTProf)
 
 ## HTTP Access
 
-### [Furl](http://search.cpan.org/perldoc?Furl)
+### [Furl](https://metacpan.org/pod/Furl)
 
-### [AnyEvent::HTTP](http://search.cpan.org/perldoc?AnyEvent::HTTP)
-
-
+### [AnyEvent::HTTP](https://metacpan.org/pod/AnyEvent::HTTP)
 
 ## Template Engines
 
-### [Text::Xslate](http://search.cpan.org/perldoc?Text::Xslate)
+### [Text::Xslate](https://metacpan.org/pod/Text::Xslate)
 
-### [Text::MicroTemplate](http://search.cpan.org/perldoc?Text::MicroTemplate)
-
-
+### [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate)
 
 ## XML and HTML
 
-### [XML::LibXML](http://search.cpan.org/perldoc?XML::LibXML)
+### [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 
-### [XML::TreePP](http://search.cpan.org/perldoc?XML::TreePP)
+### [XML::TreePP](https://metacpan.org/pod/XML::TreePP)
 
-### [Web::Query](http://search.cpan.org/perldoc?Web::Query)
+### [Web::Query](https://metacpan.org/pod/Web::Query)
 
-### [WWW::Mechanize](http://search.cpan.org/perldoc?WWW::Mechanize)
-
-
+### [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize)
 
 ## Text Tools
 
-### [Text::Markdown::Discount](http://search.cpan.org/perldoc?Text::Markdown::Discount)
+### [Text::Markdown::Discount](https://metacpan.org/pod/Text::Markdown::Discount)
 
-### [String::Random](http://search.cpan.org/perldoc?String::Random)
+### [String::Random](https://metacpan.org/pod/String::Random)
 
-### [String::IRC](http://search.cpan.org/perldoc?String::IRC)
+### [String::IRC](https://metacpan.org/pod/String::IRC)
 
-### [Number::Format](http://search.cpan.org/perldoc?Number::Format)
+### [Number::Format](https://metacpan.org/pod/Number::Format)
 
-### [String::CamelCase](http://search.cpan.org/perldoc?String::CamelCase)
+### [String::CamelCase](https://metacpan.org/pod/String::CamelCase)
 
-### [Text::Markdown::Slidy](http://search.cpan.org/perldoc?Text::Markdown::Slidy)
-
-
+### [Text::Markdown::Slidy](https://metacpan.org/pod/Text::Markdown::Slidy)
 
 ## Asynchronous
 
-### [AnyEvent](http://search.cpan.org/perldoc?AnyEvent)
+### [AnyEvent](https://metacpan.org/pod/AnyEvent)
 
-### [Coro](http://search.cpan.org/perldoc?Coro)
-
-
+### [Coro](https://metacpan.org/pod/Coro)
 
 ## Testing
 
-### [Test::More](http://search.cpan.org/perldoc?Test::More) 0.98
+### [Test::More](https://metacpan.org/pod/Test::More) 0.98
 
-### [Test::SharedFork](http://search.cpan.org/perldoc?Test::SharedFork)
+### [Test::SharedFork](https://metacpan.org/pod/Test::SharedFork)
 
-### [Test::Base::Less](http://search.cpan.org/perldoc?Test::Base::Less)
+### [Test::Base::Less](https://metacpan.org/pod/Test::Base::Less)
 
-### [Test::Deep](http://search.cpan.org/perldoc?Test::Deep)
+### [Test::Deep](https://metacpan.org/pod/Test::Deep)
 
-### [Test::Deep::Matcher](http://search.cpan.org/perldoc?Test::Deep::Matcher)
+### [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
 
-### [Test::Deep::Cond](http://search.cpan.org/perldoc?Test::Deep::Cond)
+### [Test::Deep::Cond](https://metacpan.org/pod/Test::Deep::Cond)
 
-### [Test::Pretty](http://search.cpan.org/perldoc?Test::Pretty)
+### [Test::Pretty](https://metacpan.org/pod/Test::Pretty)
 
-### [Test::mysqld](http://search.cpan.org/perldoc?Test::mysqld)
+### [Test::mysqld](https://metacpan.org/pod/Test::mysqld)
 
-### [Test::Mock::Guard](http://search.cpan.org/perldoc?Test::Mock::Guard)
-
-
+### [Test::Mock::Guard](https://metacpan.org/pod/Test::Mock::Guard)
 
 ## Logging
 
-### [Log::Minimal](http://search.cpan.org/perldoc?Log::Minimal)
+### [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
 
-### [Fluent::Logger](http://search.cpan.org/perldoc?Fluent::Logger)
-
-
+### [Fluent::Logger](https://metacpan.org/pod/Fluent::Logger)
 
 ## Others
 
-### [POSIX::AtFork](http://search.cpan.org/perldoc?POSIX::AtFork)
+### [POSIX::AtFork](https://metacpan.org/pod/POSIX::AtFork)
 
-### [IO::Prompt::Simple](http://search.cpan.org/perldoc?IO::Prompt::Simple)
+### [IO::Prompt::Simple](https://metacpan.org/pod/IO::Prompt::Simple)
 
-### [Riji](http://search.cpan.org/perldoc?Riji)
+### [Riji](https://metacpan.org/pod/Riji)
 
-### [FindBin::libs](http://search.cpan.org/perldoc?FindBin::libs)
-
-
+### [FindBin::libs](https://metacpan.org/pod/FindBin::libs)
 
 # LICENSE
 
